@@ -32,3 +32,5 @@ You can preview the production build with `npm run preview`.
 [Paraglide-SvelteKit](https://inlang.com/m/dxnzrydw/paraglide-sveltekit-i18n)
 
 [Tailwind CSS](https://tailwindcss.com/)
+
+[Lucide Svelte](https://lucide.dev/guide/packages/lucide-svelte)
