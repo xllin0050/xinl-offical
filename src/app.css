@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Iceland&display=swap");
+@import 'tailwindcss';
+
+@theme {
+	--font-iceland: "Iceland", sans-serif;
+	--color-sage-green: #a4c3a6;
+	--color-pearl-white: #e4e7e1;
+	--color-sage-gray: #a4afa6;
+	--color-cream-white: #e4e4d7;
+	--color-foreground: rgb(231, 231, 216);
+	--color-middleground: rgb(174, 172, 149);
+	--color-background: rgb(30, 30, 29);
+	--color-primary: rgb(238, 101, 43);
+	--color-secondary: rgb(237, 117, 47);
+	--color-tertiary: rgb(240, 146, 53);
+}

@@ -1,0 +1,3 @@
+ All code must be compatible with Svelte 5.x
+ Use TailwindCSS 4.x
+ Avoid using Array.reduce() method where possible
