@@ -1,3 +1,11 @@
- All code must be compatible with Svelte 5.x
- Use TailwindCSS 4.x
- Avoid using Array.reduce() method where possible
+1. Use Svelte 5.x compatible syntax and follow best practices as much as possible
+2. Framework is SvelteKit
+3. Write CSS styles that conform to TailwindCSS 4.x
+4. Multilingual support is Paraglide-SvelteKit
+5. Write TypeScript 5.x in a way that beginners can understand while following best practices
+6. Always declare the type of each variable and function (parameters and return value)
+7. Avoid using any
+8. Create necessary types
+9. Keep functions short and single-purpose (<20 lines)
+10. Try to avoid using the Array.reduce() method
+11. If asked for suggestions, do not modify the code
