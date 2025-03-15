@@ -10,10 +10,7 @@
 		{@render children()}
 	</ParaglideJS>
 </div>
-<footer class="text-middleground absolute right-0 bottom-0 p-4 uppercase">
-	<figure class="block md:hidden">
-		<img src="/test.webp" alt="xinl" class="h-24 w-auto object-contain" />
-	</figure>
+<footer class="text-middleground absolute bottom-0 right-0 uppercase px-4">
 	<p>&copy; {new Date().getFullYear()} xinl</p>
 </footer>
 

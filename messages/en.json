@@ -1,4 +1,4 @@
 {
 	"$schema": "https://inlang.com/schema/inlang-message-format",
-	"about_content": "He is a bedroom electronic music producer who began creating music in his middle years, driven by a passion and curiosity for music, determined to leave his mark on this world after years and years of quiet longing. He relies on insights gained from the journey of life and an ever-present intuitive appreciation to explore the possibilities of how music can be composed through loops and loops of trial and effort. His creative process is a true reflection of his understanding of music, hoping to convey his thoughts and emotions through his works. He aspires for his music to be more than just a personal expression, touching someone’s soul and inspiring them to sway to the beat, feeling the pure resonance that music can bring."
+	"hello_world": "Hello, {name} from en!"
 }
